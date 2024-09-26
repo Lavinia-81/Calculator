@@ -35,5 +35,5 @@ Welcome to the **Calculator** repository! This project features a simple calcula
 To get started with this project, clone the repository and open the `index.html` file. Explore the code in the `html`, `css`, and `js` directories to understand how each part contributes to the overall functionality.
 
 ```bash
-git clone 
+git clone https://github.com/Lavinia-81/Calculator.git
 cd Calculator
